@@ -7,7 +7,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Pranav's Portfolio</title>
+	<title>CVMOHAMAD</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -43,7 +43,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">Pranav's CV</a>
+		         <a href="index.html">CVMOHAMAD</a>
 		      </div>
 
 		   	<nav id="main-nav-wrap">
@@ -71,15 +71,15 @@
 
    			<div class="col-twelve">
 
-	   			<h5>WELCOME. IT'S GOOD TO HAVE YOU HERE</h5>
-	   			<h1>I'm Pranav Pandya</h1>
+	   			<h5>Hello, World.</h5>
+	   			<h1>I'm Mohamad Abou Alnaser.</h1>
 
 	   			<p class="intro-position">
-	   				<span>Master of Technology</span>
-	   				<span>Remote Sensing & GIS</span>
+	   				<span>Front-end Developer</span>
+	   				<span>Back-end Developer</span>
 	   			</p>
 
-	   			<a class="button stroke smoothscroll" href="#about" title="">My Portfolio</a>
+	   			<a class="button stroke smoothscroll" href="#about" title="">En savoir plus</a>
 
 	   		</div>
 
@@ -98,16 +98,24 @@
    	<div class="row section-intro">
    		<div class="col-twelve">
 
-   			<h5>A Bit About Me</h5>
+   			<h5>A PROPOS</h5>
 
 
    			<div class="intro-info">
 
    				<img src="images/MOHAMAD.png" alt="Profile Picture">
 
-   				<p  align='justify'>
-				Dynamic and motivated professional with a proven record of research and building relationships, managing projects from concept to completion. I am pragmatic with good leadership qualities, a good team player & Goal Oriented. Astute student with sharp intellect and detail oriented. I am self-motivated with impeccable intelligence, endurance & dexterity. <u>With over 2 years of Academic Research experience I can confidently tell you that I can effectively do various assignments with positive outcomes. I would be happy to bring my knowledge and skills to work in your firm.</u>
-</p>
+   				<p class="lead">Actuellement apprenant à
+Simplon.co en développement Web
+PHP, je recherche un emploi, à partir
+du mois d’octobre 2016, qui me
+permettrait dans un premier temps
+d’affiner mes compétences
+techniques et mes qualités
+professionnelles.
+J’habite actuellement dans la
+banlieue parisienne, mais je suis
+mobile. </p>
    			</div>
 
    		</div>
@@ -117,29 +125,29 @@
 
    		<div class="col-six tab-full">
 
-   			<h3>Personal Information</h3>
+   			<h3>PRATIQUE </h3>
 
 
    			<ul class="info-list">
    				<li>
-   					<strong>Full Name</strong>
-   					<span>Pranav Shailesh Pandya</span>
+   					<strong>Nom et Prénom:</strong>
+   					<span>ABOU ALNASER Mohamad</span>
    				</li>
    				<li>
-   					<strong>Date of Birth</strong>
-   					<span>07/08/1997</span>
+   					<strong>Date de naissance:</strong>
+   					<span>Né le : 15 / 09 / 1982</span>
    				</li>
                 <li>
    					<strong>Email:</strong>
-   					<span>pranavspandya7@gmail.com</span>
+   					<span>m.aboualnasser@gmail.com</span>
    				</li>
                 <li>
-   					<strong>LinkedIn ID</strong>
-   					<span><a href='https://www.linkedin.com/in/pranavspandya/'>linkedin.com/pranavspandya</a></span>
+   					<strong>Adress:</strong>
+   					<span>2 rue Barbes, 92 210 Montrouge</span>
    				</li>
    				<li>
    					<strong>Phone:</strong>
-   					<span>+91 9510052183</span>
+   					<span>+ 33 6 27 76 01 44</span>
    				</li>
 
 
@@ -155,27 +163,27 @@
 				<ul class="skill-bars">
 				   <li>
 				   	<div class="progress percent90"><span>90%</span></div>
-				   	<strong>Remote Sensing</strong>
+				   	<strong>HTML5</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>GIS</strong>
+				   	<strong>CSS</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent75"><span>75%</span></div>
-				   	<strong>Web GIS</strong>
+				   	<div class="progress percent70"><span>70%</span></div>
+				   	<strong>JQuery</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>Earth Engine</strong>
+				   	<strong>Bootstrap</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent75"><span>75%</span></div>
-				   	<strong>Cloud Image Processing</strong>
+				   	<strong>PHP</strong>
 				   </li>
 				   <li>
-                    <div class="progress percent85"><span>85%</span></div>
-				   	<strong>SurveyGIS & Cartography</strong>
+                    <div class="progress percent75"><span>75%</span></div>
+				   	<strong>Java script</strong>
 				   </li>
 
 				</ul> <!-- /skill-bars -->
@@ -186,8 +194,8 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Work With Me</a>
-   			<a href="https://github.com/aboualnaser/aboualnaser.github.io/raw/master/images/CV%20_%20Mohamad%20Abou%20Alnaser_Dev%20Web%20PHP%20.pdf" target="_blank" title="Download CV" class="button button-primary">My CV</a>
+   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Embaochez-moi</a>
+   			<a href="https://github.com/aboualnaser/aboualnaser.github.io/raw/master/images/CV%20_%20Mohamad%20Abou%20Alnaser_Dev%20Web%20PHP%20.pdf" target="_blank" title="Download CV" class="button button-primary">Téléchargez mon  CV</a>
    		</div>
    	</div>
 
@@ -202,7 +210,7 @@
 
    		<div class="col-twelve resume-header">
 
-   			<h2>Professional Projects & Experiences</h2>
+   			<h2>Expériences Professionelles</h2>
 
    		</div> <!-- /resume-header -->
 
@@ -298,8 +306,9 @@ n’Slash, Scratch)
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>NASA Certified - SAR Image Processing </h3>
-	   					<p>NASA | 2019</p>
+	   					<h3>Microsoft Certified – Microsoft Certified IT Professional
+(MCITP) </h3>
+	   					<p>Syrie | 2013</p>
 	   				</div>
 
 	   				<div class="timeline-content">
@@ -322,7 +331,8 @@ données .</p>
 
 	   				<div class="timeline-content">
 
-	   					<p>Ingénieur Génie Electrique, option: génie électrique et de</p>
+	   					<p>Ingénieur Génie Electrique, option: génie électrique et de
+communication.</p>
 	   				</div>
 	   				<div class="timeline-block">
 
@@ -568,7 +578,7 @@ randonnée.
         <div class="col-six tab-full pull-right social">
 
              			<ul class="footer-social">
-        			      
+        			      <
         			      <li><a target="_blank"href="https://twitter.com/MOHAMADABOUALNA"><i class="fa fa-twitter"></i></a></li>
         			      <li><a target="_blank"href="https://github.com/aboualnaser"><i class="fa fa-github" aria-hidden="true"></i>
 </a></li>
